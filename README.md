@@ -1,2 +1,2 @@
 # boxGameServer
-Server for boxGame
+Rewrite completely!
